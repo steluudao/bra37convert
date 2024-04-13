@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-npm bra36convert
+npm bra37convert
 ```
