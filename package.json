@@ -1,0 +1,29 @@
+{
+  "name": "bra37convert",
+  "version": "1.0.0",
+  "description": "bra37convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steluudao/bra37convert.git"
+  },
+  "keywords": [
+    "bra37convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "steluudao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steluudao/bra37convert/issues"
+  },
+  "homepage": "https://github.com/steluudao/bra37convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
